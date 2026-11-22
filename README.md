@@ -1,5 +1,6 @@
 # 🎓 Nashama Student Portal (البوابة الرقمية للطلاب)
 
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Portal-2ea44f?style=for-the-badge)](https://nashama.freehosting.dev/index.php)
 A comprehensive, all-in-one web platform designed to support students at **Al-Zaytoonah University of Jordan (ZUJ)**. Built to centralize essential academic resources, campus navigation, transportation schedules, and student services into a single, easy-to-use digital hub.
 
 ---
